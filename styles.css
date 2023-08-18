@@ -3,8 +3,8 @@
 	background:#f1f1f1;
 	text-align:center;
 	margin: auto;
-	height: 350px;
-	width: 200px;
+	height: 600px;
+	width: 350px;
 	box-shadow: 0px 4px 10px;
 	border-radius:5px;
     padding: 30px;
@@ -12,23 +12,23 @@
 }
 .card-img{
 	margin-top:10px;
-	margin-left: auto;
-    margin-right: auto;
 	width:90%
 }
-.text{
+.heading{
+	font-size: 65px;
 	margin:0px;
 }
 .para{
 	margin: 0px;
 	font-weight: bold;
-	font-size: 19px;
+	font-size: 35px;
 }
 .button{
 	color:white;
+	font-size: 30px;
 	background-color:#fe625a;
 	border:none;
-	border-radius:10px;
-	padding:10px;
-	margin:20px;
+	border-radius:20px;
+	padding:20px;
+	margin:30px;
 }
